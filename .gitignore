@@ -1,0 +1,20 @@
+# Eclipse
+.settings/
+.classpath
+.project
+.metadata
+
+# Build directories
+target/
+bin/
+
+# IDE specific
+.idea/
+*.iml
+.vscode/
+
+# Compiled files
+*.class
+
+# Log files
+*.log
